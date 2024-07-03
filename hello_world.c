@@ -20,7 +20,7 @@ void foo() {
 }
 
 int main(void) {
-	
+
 	printf("Hello World, This is KernelKudos \n");
 	foo();
 	return 0;
